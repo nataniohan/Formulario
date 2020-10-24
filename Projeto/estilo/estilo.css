@@ -1,0 +1,57 @@
+.centro{
+  text-align: center;
+  
+}
+.bordaProduto{
+  border: solid 2px;
+  border-left: none;
+  border-right: none;
+  border-radius: 0px 25px 25px 0px;
+}
+.borda{
+  height: 560px;
+  width: 240px;
+  border: solid 2px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-radius: 0px 25px 25px 0px;
+  font-family: Courier;
+}
+.borda2{
+  height: 400px;
+  width: 240px;
+  border: solid 2px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-radius: 0px 25px 25px 0px;
+  font-family: Courier;
+}
+.borda3{
+  width: 360px;
+  height: 320px;
+  background-color: #ADD8E6;
+  border: solid 2px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-radius: 25px 25px 25px 25px;
+  font-family: Courier;
+}
+.titulo{
+  font-size: 15px;
+  font-size: 25px;
+  text-align: center;
+  font-family: arial;
+}
+.cabecalho{
+  background-color:#87CEFA;
+  height: 60px;
+  margin-bottom: 90px;
+}
+.rodape{
+  background-color: #87CEFA;
+  margin-top: 90px;
+  height: 60px;
+}
