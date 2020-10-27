@@ -1,3 +1,4 @@
+mascara(); 
 function mascara() { 
     var $Cep = $("#cep");
     var $dataVencimento = $("#dataVencimento");
@@ -8,4 +9,3 @@ function mascara() {
     $dataVencimento.mask("00/0000")
     $numeroDoCartao.mask("0000 0000 000 0000")
 };
-mascara();
