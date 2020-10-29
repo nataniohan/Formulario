@@ -50,6 +50,18 @@
   height: 60px;
   margin-bottom: 90px;
 }
+select{
+  border: none;
+  background-color: f1f1f1;
+}
+input{
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+input:hover{
+  background-color:#D3D3D3;
+}
 .rodape{
   background-color: #87CEFA;
   margin-top: 90px;
