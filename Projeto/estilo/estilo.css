@@ -65,6 +65,20 @@ input:hover{
 table, th, td {
   border: 1px solid black;
 }
+#customizado th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+tr:hover{
+  background-color: #ddd;
+}
+#customizado td, #customizado th {
+  border: 1px solid #ddd;
+  padding: 9px;
+}
 .rodape{
   background-color: #87CEFA;
   margin-top: 90px;
