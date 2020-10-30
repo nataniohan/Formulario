@@ -62,22 +62,37 @@ input{
 input:hover{
   background-color:#D3D3D3;
 }
-table, th, td {
-  border: 1px solid black;
-}
 #customizado th{
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
+  color:black;
+}
+.botao{
   background-color: #4CAF50;
+  border: none;
   color: white;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.botao1{
+  padding: 13px 110px;
 }
 tr:hover{
   background-color: #ddd;
 }
-#customizado td, #customizado th {
-  border: 1px solid #ddd;
-  padding: 9px;
+td{
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
 }
 .rodape{
   background-color: #87CEFA;
