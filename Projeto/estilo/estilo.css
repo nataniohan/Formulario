@@ -8,26 +8,6 @@
   border-right: none;
   border-radius: 0px 25px 25px 0px;
 }
-.borda{
-  height: 560px;
-  width: 240px;
-  border: solid 2px;
-  border-top: none;
-  border-left: none;
-  border-bottom: none;
-  border-radius: 0px 25px 25px 0px;
-  font-family: Courier;
-}
-.borda2{
-  height: 400px;
-  width: 240px;
-  border: solid 2px;
-  border-top: none;
-  border-left: none;
-  border-bottom: none;
-  border-radius: 0px 25px 25px 0px;
-  font-family: Courier;
-}
 .borda3{
   width: 360px;
   height: 320px;
@@ -67,6 +47,11 @@ input:hover{
   padding-bottom: 12px;
   text-align: left;
   color:black;
+}
+.cor{
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 30px;
 }
 .botao{
   background-color: #4CAF50;
